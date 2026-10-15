@@ -1,0 +1,12 @@
+# Competition data (CC BY-NC-SA 4.0, download it from Kaggle) and run outputs
+data/
+*.csv
+*.zip
+*.pth
+*.pt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/

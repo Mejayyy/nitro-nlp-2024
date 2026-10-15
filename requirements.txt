@@ -1,0 +1,10 @@
+# Originally run on Kaggle's Python 3.10 GPU image (March 2024); requires Python 3.10+
+torch>=2.0
+transformers>=4.30
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+tqdm>=4.60
+# Only needed for the mT5 encoder's SentencePiece tokenizer
+sentencepiece
+protobuf
